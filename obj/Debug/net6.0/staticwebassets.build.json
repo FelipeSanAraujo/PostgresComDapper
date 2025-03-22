@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DcaRV6QlVVvWliN8Y6qeHVrRp5YnPWqdEsrOC6v/xPE=",
+  "Source": "DapperComPostgresql",
+  "BasePath": "_content/DapperComPostgresql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
